@@ -1,6 +1,6 @@
 # Contact Form - React.Js, Node.Js and MySQL
 
-<img src="../msb_contact_form/frontend/public/frontend_page.png">
+![frontend page](https://raw.githubusercontent.com/gabriel-am12/contact_form_react_node/master/frontend/public/frontend_page.png)
 
 ## Used tecnologys
 
