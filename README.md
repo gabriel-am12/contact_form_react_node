@@ -1,6 +1,6 @@
 # Contact Form - React.Js, Node.Js and MySQL
 
-<img src="./public/frontend_page.png">
+<img src="../msb_contact_form/frontend/public/frontend_page.png">
 
 ## Used tecnologys
 
